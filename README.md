@@ -20,4 +20,4 @@ Open `http://localhost:3000`.
 
 ## Live
 
-`<vercel-url>` — set after Vercel deploy.
+[immerse-teal.vercel.app](https://immerse-teal.vercel.app) — production deploy on Vercel.
